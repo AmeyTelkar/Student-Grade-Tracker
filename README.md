@@ -7,3 +7,7 @@ Calculate Average: Automatically computes the average grade.
 Determine Letter Grade: Provides a letter grade (A-F) based on the average.
 Calculate GPA: Outputs the GPA on a 4.0 scale.
 Generate Report: Displays a detailed grade report.
+
+
+![1](https://github.com/user-attachments/assets/ec2a134c-9d1d-40d4-be93-2d825cef99da)
+
