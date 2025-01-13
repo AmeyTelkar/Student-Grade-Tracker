@@ -9,5 +9,5 @@ Calculate GPA: Outputs the GPA on a 4.0 scale.
 Generate Report: Displays a detailed grade report.
 
 
-![1](https://github.com/user-attachments/assets/ec2a134c-9d1d-40d4-be93-2d825cef99da)
 
+![2](https://github.com/user-attachments/assets/2cf61c0c-6352-4af0-9cdf-eea972138a48)
